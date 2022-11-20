@@ -35,7 +35,8 @@ a {
     color: black;
 }
 
-a:hover{
+a:hover,
+a:focus{
     color: #44a17e;
 }
 

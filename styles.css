@@ -116,7 +116,9 @@ p {
 
 .work {
     margin-bottom: 0;
-
+}
+.exp{
+    margin-top: 10px;
 }
 
 .container {
@@ -129,17 +131,4 @@ p {
 
 .container-wrapper{
     padding-right: 14px;
-}
-
-.footer {
-    width: 100%;
-    background-color: #61c0e2;
-    margin-top: 5px;
-}
-
-.footer-wrapper{
-    padding-top: 15px;
-    padding-bottom: 15px;
-    display: flex;
-    justify-content: center;
 }
